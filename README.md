@@ -46,4 +46,10 @@ que impedem a replicação visual idêntica por ferramentas legadas de automaç�
 ## 📊 Resultados e Conclusão
 O laboratório atingiu o seu objetivo principal com sucesso, uma vez que a camada de aplicação e o script de backend do SET conseguiram interceptar e registrar com precisão os dados trafegados, validando a lógica de um ataque de roubo de credenciais em auditorias de segurança.
 
+## 🖼️ Captura de Tela - Interceptação de Credenciais bem-sucedida (SET)
+Abaixo está a comprovação visual do recebimento dos pacotes de dados e parâmetros de formulário diretamente
+no terminal do Kali Linux usado para o ataque:
+
+<img width="1599" height="899" alt="kali_linux_setoolkit_print" src="https://github.com/user-attachments/assets/9d4c15ec-1b6f-43a4-9a3b-2866fddcd27b" />
+
 Nota: Este projeto possui finalidade estritamente didática e educacional, realizada em ambiente de rede isolado e controlado.
